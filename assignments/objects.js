@@ -26,12 +26,16 @@ const intern1 = {
   gender: 'F'
 };
 
+console.log(intern1);
+
 const intern2 = {
   id: 2,
   name: 'Kennan',
   email: 'kdiben1@tinypic.com',
   gender: 'M'
 };
+
+console.log(intern2);
 
 const intern3 = {
   id: 3,
@@ -40,6 +44,8 @@ const intern3 = {
   gender: 'M'
 };
 
+console.log(intern3);
+
 const intern4 = {
   id: 4,
   name: 'Gannie',
@@ -47,13 +53,16 @@ const intern4 = {
   gender: 'M'
 }
 
-const internal5 = {
+console.log(intern4);
+
+const intern5 = {
   id: 5,
   name: 'Gannie',
   email: 'adaine5@samsung.com',
   gender: 'F'
 };
 
+console.log(intern5);
 
 // ==== Challenge 2: Reading Object Data ==== 
 // Once your objects are created, log out the following requests from HR into the console:
